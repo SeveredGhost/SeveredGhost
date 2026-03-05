@@ -1,5 +1,7 @@
 ## Beware the code... it might haunt you forever.
 
+Currently haunting repos.
+
 <!--
 **SeveredGhost/SeveredGhost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
